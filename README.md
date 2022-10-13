@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Loops88
-- 👀 I’m interested in learning and just about everything life has to offer, especially the great outdoors.
+- 👀 I’m interested in learning and just about everything else life has to offer, especially the great outdoors.
 - 🌱 I’m currently learning front-end development but eventually I will understand the whole stack.
 
 <!---
